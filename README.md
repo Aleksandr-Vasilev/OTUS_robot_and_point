@@ -1,0 +1,1 @@
+# OTUS_robot_and_point
